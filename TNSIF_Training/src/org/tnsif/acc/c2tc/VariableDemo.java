@@ -1,7 +1,7 @@
 package org.tnsif.acc.c2tc;
 
 public class VariableDemo {
-	int price=20;                             // instance
+	int price=20;                             // instance varable
 	
 	void print() {
 		String msg="hello";                    //local variable
